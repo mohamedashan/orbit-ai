@@ -1,6 +1,7 @@
 # Orbit AI
-
 Orbit is a focused AI workspace for turning half-formed thoughts into useful output. It combines a calm, keyboard-friendly interface with a small OpenAI-compatible API that can run in demo mode locally or connect to your preferred model provider.
+
+The repository also includes `sms-lab/`, a **local-only SMS security test harness** for consent, opt-out, OTP, validation, and rate-limit testing. It never contacts real phone numbers or SMS providers; see [`sms-lab/README.md`](sms-lab/README.md).
 
 ## Highlights
 
